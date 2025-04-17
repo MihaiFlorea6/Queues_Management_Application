@@ -1,0 +1,306 @@
+Time 0:
+Waiting clients: (ID=2, Arrival=2, Service=6) (ID=38, Arrival=2, Service=6) (ID=17, Arrival=3, Service=3) (ID=1, Arrival=5, Service=7) (ID=46, Arrival=6, Service=3) (ID=3, Arrival=7, Service=2) (ID=43, Arrival=7, Service=3) (ID=49, Arrival=7, Service=1) (ID=4, Arrival=8, Service=4) (ID=11, Arrival=9, Service=7) (ID=20, Arrival=9, Service=3) (ID=37, Arrival=9, Service=6) (ID=42, Arrival=11, Service=2) (ID=13, Arrival=13, Service=7) (ID=33, Arrival=13, Service=5) (ID=22, Arrival=15, Service=5) (ID=25, Arrival=15, Service=2) (ID=14, Arrival=16, Service=3) (ID=9, Arrival=17, Service=2) (ID=15, Arrival=17, Service=4) (ID=23, Arrival=17, Service=4) (ID=21, Arrival=18, Service=4) (ID=36, Arrival=18, Service=3) (ID=5, Arrival=19, Service=6) (ID=34, Arrival=19, Service=3) (ID=12, Arrival=21, Service=2) (ID=31, Arrival=22, Service=6) (ID=45, Arrival=22, Service=1) (ID=48, Arrival=23, Service=2) (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+Time 1:
+Waiting clients: (ID=2, Arrival=2, Service=6) (ID=38, Arrival=2, Service=6) (ID=17, Arrival=3, Service=3) (ID=1, Arrival=5, Service=7) (ID=46, Arrival=6, Service=3) (ID=3, Arrival=7, Service=2) (ID=43, Arrival=7, Service=3) (ID=49, Arrival=7, Service=1) (ID=4, Arrival=8, Service=4) (ID=11, Arrival=9, Service=7) (ID=20, Arrival=9, Service=3) (ID=37, Arrival=9, Service=6) (ID=42, Arrival=11, Service=2) (ID=13, Arrival=13, Service=7) (ID=33, Arrival=13, Service=5) (ID=22, Arrival=15, Service=5) (ID=25, Arrival=15, Service=2) (ID=14, Arrival=16, Service=3) (ID=9, Arrival=17, Service=2) (ID=15, Arrival=17, Service=4) (ID=23, Arrival=17, Service=4) (ID=21, Arrival=18, Service=4) (ID=36, Arrival=18, Service=3) (ID=5, Arrival=19, Service=6) (ID=34, Arrival=19, Service=3) (ID=12, Arrival=21, Service=2) (ID=31, Arrival=22, Service=6) (ID=45, Arrival=22, Service=1) (ID=48, Arrival=23, Service=2) (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+Time 2:
+Waiting clients: (ID=17, Arrival=3, Service=3) (ID=1, Arrival=5, Service=7) (ID=46, Arrival=6, Service=3) (ID=3, Arrival=7, Service=2) (ID=43, Arrival=7, Service=3) (ID=49, Arrival=7, Service=1) (ID=4, Arrival=8, Service=4) (ID=11, Arrival=9, Service=7) (ID=20, Arrival=9, Service=3) (ID=37, Arrival=9, Service=6) (ID=42, Arrival=11, Service=2) (ID=13, Arrival=13, Service=7) (ID=33, Arrival=13, Service=5) (ID=22, Arrival=15, Service=5) (ID=25, Arrival=15, Service=2) (ID=14, Arrival=16, Service=3) (ID=9, Arrival=17, Service=2) (ID=15, Arrival=17, Service=4) (ID=23, Arrival=17, Service=4) (ID=21, Arrival=18, Service=4) (ID=36, Arrival=18, Service=3) (ID=5, Arrival=19, Service=6) (ID=34, Arrival=19, Service=3) (ID=12, Arrival=21, Service=2) (ID=31, Arrival=22, Service=6) (ID=45, Arrival=22, Service=1) (ID=48, Arrival=23, Service=2) (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=2, Arrival=2, Service=5); 
+Queue 2: (ID=38, Arrival=2, Service=5); 
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+Time 3:
+Waiting clients: (ID=1, Arrival=5, Service=7) (ID=46, Arrival=6, Service=3) (ID=3, Arrival=7, Service=2) (ID=43, Arrival=7, Service=3) (ID=49, Arrival=7, Service=1) (ID=4, Arrival=8, Service=4) (ID=11, Arrival=9, Service=7) (ID=20, Arrival=9, Service=3) (ID=37, Arrival=9, Service=6) (ID=42, Arrival=11, Service=2) (ID=13, Arrival=13, Service=7) (ID=33, Arrival=13, Service=5) (ID=22, Arrival=15, Service=5) (ID=25, Arrival=15, Service=2) (ID=14, Arrival=16, Service=3) (ID=9, Arrival=17, Service=2) (ID=15, Arrival=17, Service=4) (ID=23, Arrival=17, Service=4) (ID=21, Arrival=18, Service=4) (ID=36, Arrival=18, Service=3) (ID=5, Arrival=19, Service=6) (ID=34, Arrival=19, Service=3) (ID=12, Arrival=21, Service=2) (ID=31, Arrival=22, Service=6) (ID=45, Arrival=22, Service=1) (ID=48, Arrival=23, Service=2) (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=2, Arrival=2, Service=4); 
+Queue 2: (ID=38, Arrival=2, Service=4); 
+Queue 3: (ID=17, Arrival=3, Service=2); 
+Queue 4: closed
+Queue 5: closed
+Time 4:
+Waiting clients: (ID=1, Arrival=5, Service=7) (ID=46, Arrival=6, Service=3) (ID=3, Arrival=7, Service=2) (ID=43, Arrival=7, Service=3) (ID=49, Arrival=7, Service=1) (ID=4, Arrival=8, Service=4) (ID=11, Arrival=9, Service=7) (ID=20, Arrival=9, Service=3) (ID=37, Arrival=9, Service=6) (ID=42, Arrival=11, Service=2) (ID=13, Arrival=13, Service=7) (ID=33, Arrival=13, Service=5) (ID=22, Arrival=15, Service=5) (ID=25, Arrival=15, Service=2) (ID=14, Arrival=16, Service=3) (ID=9, Arrival=17, Service=2) (ID=15, Arrival=17, Service=4) (ID=23, Arrival=17, Service=4) (ID=21, Arrival=18, Service=4) (ID=36, Arrival=18, Service=3) (ID=5, Arrival=19, Service=6) (ID=34, Arrival=19, Service=3) (ID=12, Arrival=21, Service=2) (ID=31, Arrival=22, Service=6) (ID=45, Arrival=22, Service=1) (ID=48, Arrival=23, Service=2) (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=2, Arrival=2, Service=3); 
+Queue 2: (ID=38, Arrival=2, Service=3); 
+Queue 3: (ID=17, Arrival=3, Service=1); 
+Queue 4: closed
+Queue 5: closed
+Time 5:
+Waiting clients: (ID=46, Arrival=6, Service=3) (ID=3, Arrival=7, Service=2) (ID=43, Arrival=7, Service=3) (ID=49, Arrival=7, Service=1) (ID=4, Arrival=8, Service=4) (ID=11, Arrival=9, Service=7) (ID=20, Arrival=9, Service=3) (ID=37, Arrival=9, Service=6) (ID=42, Arrival=11, Service=2) (ID=13, Arrival=13, Service=7) (ID=33, Arrival=13, Service=5) (ID=22, Arrival=15, Service=5) (ID=25, Arrival=15, Service=2) (ID=14, Arrival=16, Service=3) (ID=9, Arrival=17, Service=2) (ID=15, Arrival=17, Service=4) (ID=23, Arrival=17, Service=4) (ID=21, Arrival=18, Service=4) (ID=36, Arrival=18, Service=3) (ID=5, Arrival=19, Service=6) (ID=34, Arrival=19, Service=3) (ID=12, Arrival=21, Service=2) (ID=31, Arrival=22, Service=6) (ID=45, Arrival=22, Service=1) (ID=48, Arrival=23, Service=2) (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=2, Arrival=2, Service=2); 
+Queue 2: (ID=38, Arrival=2, Service=2); 
+Queue 3: closed
+Queue 4: (ID=1, Arrival=5, Service=6); 
+Queue 5: closed
+Time 6:
+Waiting clients: (ID=3, Arrival=7, Service=2) (ID=43, Arrival=7, Service=3) (ID=49, Arrival=7, Service=1) (ID=4, Arrival=8, Service=4) (ID=11, Arrival=9, Service=7) (ID=20, Arrival=9, Service=3) (ID=37, Arrival=9, Service=6) (ID=42, Arrival=11, Service=2) (ID=13, Arrival=13, Service=7) (ID=33, Arrival=13, Service=5) (ID=22, Arrival=15, Service=5) (ID=25, Arrival=15, Service=2) (ID=14, Arrival=16, Service=3) (ID=9, Arrival=17, Service=2) (ID=15, Arrival=17, Service=4) (ID=23, Arrival=17, Service=4) (ID=21, Arrival=18, Service=4) (ID=36, Arrival=18, Service=3) (ID=5, Arrival=19, Service=6) (ID=34, Arrival=19, Service=3) (ID=12, Arrival=21, Service=2) (ID=31, Arrival=22, Service=6) (ID=45, Arrival=22, Service=1) (ID=48, Arrival=23, Service=2) (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=2, Arrival=2, Service=1); 
+Queue 2: (ID=38, Arrival=2, Service=1); 
+Queue 3: closed
+Queue 4: (ID=1, Arrival=5, Service=5); 
+Queue 5: (ID=46, Arrival=6, Service=2); 
+Time 7:
+Waiting clients: (ID=4, Arrival=8, Service=4) (ID=11, Arrival=9, Service=7) (ID=20, Arrival=9, Service=3) (ID=37, Arrival=9, Service=6) (ID=42, Arrival=11, Service=2) (ID=13, Arrival=13, Service=7) (ID=33, Arrival=13, Service=5) (ID=22, Arrival=15, Service=5) (ID=25, Arrival=15, Service=2) (ID=14, Arrival=16, Service=3) (ID=9, Arrival=17, Service=2) (ID=15, Arrival=17, Service=4) (ID=23, Arrival=17, Service=4) (ID=21, Arrival=18, Service=4) (ID=36, Arrival=18, Service=3) (ID=5, Arrival=19, Service=6) (ID=34, Arrival=19, Service=3) (ID=12, Arrival=21, Service=2) (ID=31, Arrival=22, Service=6) (ID=45, Arrival=22, Service=1) (ID=48, Arrival=23, Service=2) (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: closed
+Queue 2: closed
+Queue 3: (ID=3, Arrival=7, Service=1); (ID=49, Arrival=7, Service=1); 
+Queue 4: (ID=1, Arrival=5, Service=4); 
+Queue 5: (ID=46, Arrival=6, Service=1); (ID=43, Arrival=7, Service=3); 
+Time 8:
+Waiting clients: (ID=11, Arrival=9, Service=7) (ID=20, Arrival=9, Service=3) (ID=37, Arrival=9, Service=6) (ID=42, Arrival=11, Service=2) (ID=13, Arrival=13, Service=7) (ID=33, Arrival=13, Service=5) (ID=22, Arrival=15, Service=5) (ID=25, Arrival=15, Service=2) (ID=14, Arrival=16, Service=3) (ID=9, Arrival=17, Service=2) (ID=15, Arrival=17, Service=4) (ID=23, Arrival=17, Service=4) (ID=21, Arrival=18, Service=4) (ID=36, Arrival=18, Service=3) (ID=5, Arrival=19, Service=6) (ID=34, Arrival=19, Service=3) (ID=12, Arrival=21, Service=2) (ID=31, Arrival=22, Service=6) (ID=45, Arrival=22, Service=1) (ID=48, Arrival=23, Service=2) (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=4, Arrival=8, Service=3); 
+Queue 2: closed
+Queue 3: (ID=49, Arrival=7, Service=1); 
+Queue 4: (ID=1, Arrival=5, Service=3); 
+Queue 5: (ID=43, Arrival=7, Service=3); 
+Time 9:
+Waiting clients: (ID=42, Arrival=11, Service=2) (ID=13, Arrival=13, Service=7) (ID=33, Arrival=13, Service=5) (ID=22, Arrival=15, Service=5) (ID=25, Arrival=15, Service=2) (ID=14, Arrival=16, Service=3) (ID=9, Arrival=17, Service=2) (ID=15, Arrival=17, Service=4) (ID=23, Arrival=17, Service=4) (ID=21, Arrival=18, Service=4) (ID=36, Arrival=18, Service=3) (ID=5, Arrival=19, Service=6) (ID=34, Arrival=19, Service=3) (ID=12, Arrival=21, Service=2) (ID=31, Arrival=22, Service=6) (ID=45, Arrival=22, Service=1) (ID=48, Arrival=23, Service=2) (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=4, Arrival=8, Service=2); 
+Queue 2: (ID=11, Arrival=9, Service=6); 
+Queue 3: (ID=20, Arrival=9, Service=3); 
+Queue 4: (ID=1, Arrival=5, Service=2); 
+Queue 5: (ID=43, Arrival=7, Service=2); (ID=37, Arrival=9, Service=6); 
+Time 10:
+Waiting clients: (ID=42, Arrival=11, Service=2) (ID=13, Arrival=13, Service=7) (ID=33, Arrival=13, Service=5) (ID=22, Arrival=15, Service=5) (ID=25, Arrival=15, Service=2) (ID=14, Arrival=16, Service=3) (ID=9, Arrival=17, Service=2) (ID=15, Arrival=17, Service=4) (ID=23, Arrival=17, Service=4) (ID=21, Arrival=18, Service=4) (ID=36, Arrival=18, Service=3) (ID=5, Arrival=19, Service=6) (ID=34, Arrival=19, Service=3) (ID=12, Arrival=21, Service=2) (ID=31, Arrival=22, Service=6) (ID=45, Arrival=22, Service=1) (ID=48, Arrival=23, Service=2) (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=4, Arrival=8, Service=1); 
+Queue 2: (ID=11, Arrival=9, Service=5); 
+Queue 3: (ID=20, Arrival=9, Service=2); 
+Queue 4: (ID=1, Arrival=5, Service=1); 
+Queue 5: (ID=43, Arrival=7, Service=1); (ID=37, Arrival=9, Service=6); 
+Time 11:
+Waiting clients: (ID=13, Arrival=13, Service=7) (ID=33, Arrival=13, Service=5) (ID=22, Arrival=15, Service=5) (ID=25, Arrival=15, Service=2) (ID=14, Arrival=16, Service=3) (ID=9, Arrival=17, Service=2) (ID=15, Arrival=17, Service=4) (ID=23, Arrival=17, Service=4) (ID=21, Arrival=18, Service=4) (ID=36, Arrival=18, Service=3) (ID=5, Arrival=19, Service=6) (ID=34, Arrival=19, Service=3) (ID=12, Arrival=21, Service=2) (ID=31, Arrival=22, Service=6) (ID=45, Arrival=22, Service=1) (ID=48, Arrival=23, Service=2) (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: closed
+Queue 2: (ID=11, Arrival=9, Service=4); 
+Queue 3: (ID=20, Arrival=9, Service=1); 
+Queue 4: (ID=42, Arrival=11, Service=2); 
+Queue 5: (ID=37, Arrival=9, Service=6); 
+Time 12:
+Waiting clients: (ID=13, Arrival=13, Service=7) (ID=33, Arrival=13, Service=5) (ID=22, Arrival=15, Service=5) (ID=25, Arrival=15, Service=2) (ID=14, Arrival=16, Service=3) (ID=9, Arrival=17, Service=2) (ID=15, Arrival=17, Service=4) (ID=23, Arrival=17, Service=4) (ID=21, Arrival=18, Service=4) (ID=36, Arrival=18, Service=3) (ID=5, Arrival=19, Service=6) (ID=34, Arrival=19, Service=3) (ID=12, Arrival=21, Service=2) (ID=31, Arrival=22, Service=6) (ID=45, Arrival=22, Service=1) (ID=48, Arrival=23, Service=2) (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: closed
+Queue 2: (ID=11, Arrival=9, Service=3); 
+Queue 3: closed
+Queue 4: (ID=42, Arrival=11, Service=1); 
+Queue 5: (ID=37, Arrival=9, Service=5); 
+Time 13:
+Waiting clients: (ID=22, Arrival=15, Service=5) (ID=25, Arrival=15, Service=2) (ID=14, Arrival=16, Service=3) (ID=9, Arrival=17, Service=2) (ID=15, Arrival=17, Service=4) (ID=23, Arrival=17, Service=4) (ID=21, Arrival=18, Service=4) (ID=36, Arrival=18, Service=3) (ID=5, Arrival=19, Service=6) (ID=34, Arrival=19, Service=3) (ID=12, Arrival=21, Service=2) (ID=31, Arrival=22, Service=6) (ID=45, Arrival=22, Service=1) (ID=48, Arrival=23, Service=2) (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: closed
+Queue 2: (ID=11, Arrival=9, Service=2); 
+Queue 3: (ID=13, Arrival=13, Service=6); 
+Queue 4: (ID=33, Arrival=13, Service=5); 
+Queue 5: (ID=37, Arrival=9, Service=4); 
+Time 14:
+Waiting clients: (ID=22, Arrival=15, Service=5) (ID=25, Arrival=15, Service=2) (ID=14, Arrival=16, Service=3) (ID=9, Arrival=17, Service=2) (ID=15, Arrival=17, Service=4) (ID=23, Arrival=17, Service=4) (ID=21, Arrival=18, Service=4) (ID=36, Arrival=18, Service=3) (ID=5, Arrival=19, Service=6) (ID=34, Arrival=19, Service=3) (ID=12, Arrival=21, Service=2) (ID=31, Arrival=22, Service=6) (ID=45, Arrival=22, Service=1) (ID=48, Arrival=23, Service=2) (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: closed
+Queue 2: (ID=11, Arrival=9, Service=1); 
+Queue 3: (ID=13, Arrival=13, Service=5); 
+Queue 4: (ID=33, Arrival=13, Service=4); 
+Queue 5: (ID=37, Arrival=9, Service=3); 
+Time 15:
+Waiting clients: (ID=14, Arrival=16, Service=3) (ID=9, Arrival=17, Service=2) (ID=15, Arrival=17, Service=4) (ID=23, Arrival=17, Service=4) (ID=21, Arrival=18, Service=4) (ID=36, Arrival=18, Service=3) (ID=5, Arrival=19, Service=6) (ID=34, Arrival=19, Service=3) (ID=12, Arrival=21, Service=2) (ID=31, Arrival=22, Service=6) (ID=45, Arrival=22, Service=1) (ID=48, Arrival=23, Service=2) (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=22, Arrival=15, Service=4); 
+Queue 2: closed
+Queue 3: (ID=13, Arrival=13, Service=4); 
+Queue 4: (ID=33, Arrival=13, Service=3); 
+Queue 5: (ID=37, Arrival=9, Service=2); (ID=25, Arrival=15, Service=2); 
+Time 16:
+Waiting clients: (ID=9, Arrival=17, Service=2) (ID=15, Arrival=17, Service=4) (ID=23, Arrival=17, Service=4) (ID=21, Arrival=18, Service=4) (ID=36, Arrival=18, Service=3) (ID=5, Arrival=19, Service=6) (ID=34, Arrival=19, Service=3) (ID=12, Arrival=21, Service=2) (ID=31, Arrival=22, Service=6) (ID=45, Arrival=22, Service=1) (ID=48, Arrival=23, Service=2) (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=22, Arrival=15, Service=3); 
+Queue 2: (ID=14, Arrival=16, Service=2); 
+Queue 3: (ID=13, Arrival=13, Service=3); 
+Queue 4: (ID=33, Arrival=13, Service=2); 
+Queue 5: (ID=37, Arrival=9, Service=1); (ID=25, Arrival=15, Service=2); 
+Time 17:
+Waiting clients: (ID=21, Arrival=18, Service=4) (ID=36, Arrival=18, Service=3) (ID=5, Arrival=19, Service=6) (ID=34, Arrival=19, Service=3) (ID=12, Arrival=21, Service=2) (ID=31, Arrival=22, Service=6) (ID=45, Arrival=22, Service=1) (ID=48, Arrival=23, Service=2) (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=22, Arrival=15, Service=2); (ID=23, Arrival=17, Service=4); 
+Queue 2: (ID=14, Arrival=16, Service=1); 
+Queue 3: (ID=13, Arrival=13, Service=2); 
+Queue 4: (ID=33, Arrival=13, Service=1); (ID=9, Arrival=17, Service=2); 
+Queue 5: (ID=25, Arrival=15, Service=2); (ID=15, Arrival=17, Service=4); 
+Time 18:
+Waiting clients: (ID=5, Arrival=19, Service=6) (ID=34, Arrival=19, Service=3) (ID=12, Arrival=21, Service=2) (ID=31, Arrival=22, Service=6) (ID=45, Arrival=22, Service=1) (ID=48, Arrival=23, Service=2) (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=22, Arrival=15, Service=1); (ID=23, Arrival=17, Service=4); 
+Queue 2: (ID=21, Arrival=18, Service=4); 
+Queue 3: (ID=13, Arrival=13, Service=1); (ID=36, Arrival=18, Service=3); 
+Queue 4: (ID=9, Arrival=17, Service=2); 
+Queue 5: (ID=25, Arrival=15, Service=1); (ID=15, Arrival=17, Service=4); 
+Time 19:
+Waiting clients: (ID=12, Arrival=21, Service=2) (ID=31, Arrival=22, Service=6) (ID=45, Arrival=22, Service=1) (ID=48, Arrival=23, Service=2) (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=23, Arrival=17, Service=4); 
+Queue 2: (ID=21, Arrival=18, Service=3); 
+Queue 3: (ID=36, Arrival=18, Service=3); 
+Queue 4: (ID=9, Arrival=17, Service=1); (ID=5, Arrival=19, Service=6); 
+Queue 5: (ID=15, Arrival=17, Service=4); (ID=34, Arrival=19, Service=3); 
+Time 20:
+Waiting clients: (ID=12, Arrival=21, Service=2) (ID=31, Arrival=22, Service=6) (ID=45, Arrival=22, Service=1) (ID=48, Arrival=23, Service=2) (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=23, Arrival=17, Service=3); 
+Queue 2: (ID=21, Arrival=18, Service=2); 
+Queue 3: (ID=36, Arrival=18, Service=2); 
+Queue 4: (ID=5, Arrival=19, Service=6); 
+Queue 5: (ID=15, Arrival=17, Service=3); (ID=34, Arrival=19, Service=3); 
+Time 21:
+Waiting clients: (ID=31, Arrival=22, Service=6) (ID=45, Arrival=22, Service=1) (ID=48, Arrival=23, Service=2) (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=23, Arrival=17, Service=2); (ID=12, Arrival=21, Service=2); 
+Queue 2: (ID=21, Arrival=18, Service=1); 
+Queue 3: (ID=36, Arrival=18, Service=1); 
+Queue 4: (ID=5, Arrival=19, Service=5); 
+Queue 5: (ID=15, Arrival=17, Service=2); (ID=34, Arrival=19, Service=3); 
+Time 22:
+Waiting clients: (ID=48, Arrival=23, Service=2) (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=23, Arrival=17, Service=1); (ID=12, Arrival=21, Service=2); 
+Queue 2: (ID=45, Arrival=22, Service=1); 
+Queue 3: (ID=31, Arrival=22, Service=6); 
+Queue 4: (ID=5, Arrival=19, Service=4); 
+Queue 5: (ID=15, Arrival=17, Service=1); (ID=34, Arrival=19, Service=3); 
+Time 23:
+Waiting clients: (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=12, Arrival=21, Service=2); (ID=48, Arrival=23, Service=2); 
+Queue 2: closed
+Queue 3: (ID=31, Arrival=22, Service=5); 
+Queue 4: (ID=5, Arrival=19, Service=3); 
+Queue 5: (ID=34, Arrival=19, Service=3); 
+Time 24:
+Waiting clients: (ID=27, Arrival=25, Service=6) (ID=29, Arrival=25, Service=1) (ID=32, Arrival=25, Service=7) (ID=41, Arrival=25, Service=3) (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=12, Arrival=21, Service=1); (ID=48, Arrival=23, Service=2); 
+Queue 2: closed
+Queue 3: (ID=31, Arrival=22, Service=4); 
+Queue 4: (ID=5, Arrival=19, Service=2); 
+Queue 5: (ID=34, Arrival=19, Service=2); 
+Time 25:
+Waiting clients: (ID=50, Arrival=26, Service=6) (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=48, Arrival=23, Service=2); 
+Queue 2: (ID=27, Arrival=25, Service=5); 
+Queue 3: (ID=31, Arrival=22, Service=3); 
+Queue 4: (ID=5, Arrival=19, Service=1); (ID=32, Arrival=25, Service=7); 
+Queue 5: (ID=34, Arrival=19, Service=1); (ID=29, Arrival=25, Service=1); (ID=41, Arrival=25, Service=3); 
+Time 26:
+Waiting clients: (ID=24, Arrival=27, Service=2) (ID=28, Arrival=27, Service=4) (ID=40, Arrival=27, Service=2) (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=48, Arrival=23, Service=1); (ID=50, Arrival=26, Service=6); 
+Queue 2: (ID=27, Arrival=25, Service=4); 
+Queue 3: (ID=31, Arrival=22, Service=2); 
+Queue 4: (ID=32, Arrival=25, Service=7); 
+Queue 5: (ID=29, Arrival=25, Service=1); (ID=41, Arrival=25, Service=3); 
+Time 27:
+Waiting clients: (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=50, Arrival=26, Service=6); 
+Queue 2: (ID=27, Arrival=25, Service=3); (ID=40, Arrival=27, Service=2); 
+Queue 3: (ID=31, Arrival=22, Service=1); (ID=24, Arrival=27, Service=2); 
+Queue 4: (ID=32, Arrival=25, Service=6); 
+Queue 5: (ID=41, Arrival=25, Service=3); (ID=28, Arrival=27, Service=4); 
+Time 28:
+Waiting clients: (ID=7, Arrival=29, Service=1) (ID=18, Arrival=29, Service=5) (ID=19, Arrival=29, Service=1) (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=50, Arrival=26, Service=5); 
+Queue 2: (ID=27, Arrival=25, Service=2); (ID=40, Arrival=27, Service=2); 
+Queue 3: (ID=24, Arrival=27, Service=2); 
+Queue 4: (ID=32, Arrival=25, Service=5); 
+Queue 5: (ID=41, Arrival=25, Service=2); (ID=28, Arrival=27, Service=4); 
+Time 29:
+Waiting clients: (ID=6, Arrival=30, Service=6) (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=50, Arrival=26, Service=4); (ID=19, Arrival=29, Service=1); 
+Queue 2: (ID=27, Arrival=25, Service=1); (ID=40, Arrival=27, Service=2); 
+Queue 3: (ID=24, Arrival=27, Service=1); (ID=7, Arrival=29, Service=1); (ID=18, Arrival=29, Service=5); 
+Queue 4: (ID=32, Arrival=25, Service=4); 
+Queue 5: (ID=41, Arrival=25, Service=1); (ID=28, Arrival=27, Service=4); 
+Time 30:
+Waiting clients: (ID=8, Arrival=31, Service=1) (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=50, Arrival=26, Service=3); (ID=19, Arrival=29, Service=1); 
+Queue 2: (ID=40, Arrival=27, Service=2); (ID=6, Arrival=30, Service=6); 
+Queue 3: (ID=7, Arrival=29, Service=1); (ID=18, Arrival=29, Service=5); 
+Queue 4: (ID=32, Arrival=25, Service=3); 
+Queue 5: (ID=28, Arrival=27, Service=4); 
+Time 31:
+Waiting clients: (ID=10, Arrival=32, Service=7) (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=50, Arrival=26, Service=2); (ID=19, Arrival=29, Service=1); 
+Queue 2: (ID=40, Arrival=27, Service=1); (ID=6, Arrival=30, Service=6); 
+Queue 3: (ID=18, Arrival=29, Service=5); 
+Queue 4: (ID=32, Arrival=25, Service=2); (ID=8, Arrival=31, Service=1); 
+Queue 5: (ID=28, Arrival=27, Service=3); 
+Time 32:
+Waiting clients: (ID=30, Arrival=33, Service=5) (ID=39, Arrival=33, Service=4) (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=50, Arrival=26, Service=1); (ID=19, Arrival=29, Service=1); 
+Queue 2: (ID=6, Arrival=30, Service=6); 
+Queue 3: (ID=18, Arrival=29, Service=4); 
+Queue 4: (ID=32, Arrival=25, Service=1); (ID=8, Arrival=31, Service=1); 
+Queue 5: (ID=28, Arrival=27, Service=2); (ID=10, Arrival=32, Service=7); 
+Time 33:
+Waiting clients: (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=19, Arrival=29, Service=1); (ID=30, Arrival=33, Service=5); 
+Queue 2: (ID=6, Arrival=30, Service=5); 
+Queue 3: (ID=18, Arrival=29, Service=3); 
+Queue 4: (ID=8, Arrival=31, Service=1); (ID=39, Arrival=33, Service=4); 
+Queue 5: (ID=28, Arrival=27, Service=1); (ID=10, Arrival=32, Service=7); 
+Time 34:
+Waiting clients: (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=30, Arrival=33, Service=5); 
+Queue 2: (ID=6, Arrival=30, Service=4); 
+Queue 3: (ID=18, Arrival=29, Service=2); 
+Queue 4: (ID=39, Arrival=33, Service=4); 
+Queue 5: (ID=10, Arrival=32, Service=7); 
+Time 35:
+Waiting clients: (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=30, Arrival=33, Service=4); 
+Queue 2: (ID=6, Arrival=30, Service=3); 
+Queue 3: (ID=18, Arrival=29, Service=1); 
+Queue 4: (ID=39, Arrival=33, Service=3); 
+Queue 5: (ID=10, Arrival=32, Service=6); 
+Time 36:
+Waiting clients: (ID=44, Arrival=37, Service=3) (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=30, Arrival=33, Service=3); 
+Queue 2: (ID=6, Arrival=30, Service=2); 
+Queue 3: closed
+Queue 4: (ID=39, Arrival=33, Service=2); 
+Queue 5: (ID=10, Arrival=32, Service=5); 
+Time 37:
+Waiting clients: (ID=16, Arrival=38, Service=2) (ID=26, Arrival=38, Service=2) (ID=35, Arrival=38, Service=4) (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=30, Arrival=33, Service=2); 
+Queue 2: (ID=6, Arrival=30, Service=1); 
+Queue 3: (ID=44, Arrival=37, Service=2); 
+Queue 4: (ID=39, Arrival=33, Service=1); 
+Queue 5: (ID=10, Arrival=32, Service=4); 
+Time 38:
+Waiting clients: (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=30, Arrival=33, Service=1); (ID=26, Arrival=38, Service=2); 
+Queue 2: (ID=35, Arrival=38, Service=4); 
+Queue 3: (ID=44, Arrival=37, Service=1); 
+Queue 4: (ID=16, Arrival=38, Service=2); 
+Queue 5: (ID=10, Arrival=32, Service=3); 
+Time 39:
+Waiting clients: (ID=47, Arrival=40, Service=2) 
+Queue 1: (ID=26, Arrival=38, Service=2); 
+Queue 2: (ID=35, Arrival=38, Service=3); 
+Queue 3: closed
+Queue 4: (ID=16, Arrival=38, Service=1); 
+Queue 5: (ID=10, Arrival=32, Service=2); 
+Time 40:
+Waiting clients: none
+Queue 1: (ID=26, Arrival=38, Service=1); 
+Queue 2: (ID=35, Arrival=38, Service=2); 
+Queue 3: (ID=47, Arrival=40, Service=1); 
+Queue 4: closed
+Queue 5: (ID=10, Arrival=32, Service=1); 
+Time 41:
+Waiting clients: none
+Queue 1: closed
+Queue 2: (ID=35, Arrival=38, Service=1); 
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+Time 42:
+Waiting clients: none
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+=== FINAL STATISTICS ===
+Average Waiting Time: 4.42
+Average Service Time: 3.72
+Peak Hour: 29 (with 10 clients in queues)

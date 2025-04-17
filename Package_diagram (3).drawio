@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
+  <diagram name="Pagină-1" id="cvDh-dxuGUFBrKUT3_YP">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hb1pgv9fiO9lER8NiGQV-1" value="Business Logic" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="325" y="90" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hb1pgv9fiO9lER8NiGQV-2" value="Model" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="690" y="85" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hb1pgv9fiO9lER8NiGQV-3" value="GUI" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="325" y="-90" width="197" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hb1pgv9fiO9lER8NiGQV-4" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hb1pgv9fiO9lER8NiGQV-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="480" y="160" as="sourcePoint" />
+            <mxPoint x="424" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hb1pgv9fiO9lER8NiGQV-5" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=67;entryPerimeter=0;exitX=0;exitY=0;exitDx=200;exitDy=62;exitPerimeter=0;" edge="1" parent="1" source="hb1pgv9fiO9lER8NiGQV-1" target="hb1pgv9fiO9lER8NiGQV-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="530" y="150" as="sourcePoint" />
+            <mxPoint x="640" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hb1pgv9fiO9lER8NiGQV-6" value="Contains the implementation of the GUI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="-50" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hb1pgv9fiO9lER8NiGQV-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=62;entryPerimeter=0;" edge="1" parent="1" source="hb1pgv9fiO9lER8NiGQV-6" target="hb1pgv9fiO9lER8NiGQV-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="150" as="sourcePoint" />
+            <mxPoint x="310" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hb1pgv9fiO9lER8NiGQV-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.025;entryY=0.273;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="175" y="144.29" as="sourcePoint" />
+            <mxPoint x="330" y="144.31999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hb1pgv9fiO9lER8NiGQV-9" value="Contains the implementation of Strategy, Scheduler,&amp;nbsp;&lt;div&gt;ShortestQueueStrategy, Simulation&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="125" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hb1pgv9fiO9lER8NiGQV-10" value="Contains the implementation of Task and Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="120" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hb1pgv9fiO9lER8NiGQV-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=190;entryDy=67;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hb1pgv9fiO9lER8NiGQV-10" target="hb1pgv9fiO9lER8NiGQV-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890" y="200" as="sourcePoint" />
+            <mxPoint x="940" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
