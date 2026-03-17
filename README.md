@@ -1,6 +1,7 @@
 # Queues Management Application  
 # Technical Description  
-A multithreaded queue management system built in Java, designed to simulate and optimize real-world waiting lines. This application evaluates different client allocation strategies (Shortest Queue vs. Best Time) to minimize average waiting times. It demonstrates strong principles of Object-Oriented Design, applying Design Patterns to ensure a robust and scalable architecture.  
+A multithreaded queue management system built in Java, designed to simulate and optimize real-world waiting lines. This application evaluates different client allocation strategies (Shortest Queue vs. Best Time) to minimize average waiting times.  
+It demonstrates strong principles of Object-Oriented Design, applying Design Patterns to ensure a robust and scalable architecture.  
 
 https://github.com/user-attachments/assets/e7ef357d-f57d-4681-b932-5cd35addc6e5  
 
