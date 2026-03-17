@@ -1,0 +1,37 @@
+Time 0:
+Waiting clients: (ID=3, Arrival=1, Service=3) (ID=1, Arrival=2, Service=2) (ID=2, Arrival=2, Service=4) (ID=5, Arrival=2, Service=1) (ID=4, Arrival=3, Service=1) (ID=6, Arrival=3, Service=1) 
+Queue 1: closed
+Queue 2: closed
+Time 1:
+Waiting clients: (ID=1, Arrival=2, Service=2) (ID=2, Arrival=2, Service=4) (ID=5, Arrival=2, Service=1) (ID=4, Arrival=3, Service=1) (ID=6, Arrival=3, Service=1) 
+Queue 1: (ID=3, Arrival=1, Service=2); 
+Queue 2: closed
+Time 2:
+Waiting clients: (ID=4, Arrival=3, Service=1) (ID=6, Arrival=3, Service=1) 
+Queue 1: (ID=3, Arrival=1, Service=1); (ID=5, Arrival=2, Service=1); 
+Queue 2: (ID=1, Arrival=2, Service=1); (ID=2, Arrival=2, Service=4); 
+Time 3:
+Waiting clients: none
+Queue 1: (ID=5, Arrival=2, Service=1); (ID=4, Arrival=3, Service=1); (ID=6, Arrival=3, Service=1); 
+Queue 2: (ID=2, Arrival=2, Service=4); 
+Time 4:
+Waiting clients: none
+Queue 1: (ID=4, Arrival=3, Service=1); (ID=6, Arrival=3, Service=1); 
+Queue 2: (ID=2, Arrival=2, Service=3); 
+Time 5:
+Waiting clients: none
+Queue 1: (ID=6, Arrival=3, Service=1); 
+Queue 2: (ID=2, Arrival=2, Service=2); 
+Time 6:
+Waiting clients: none
+Queue 1: closed
+Queue 2: (ID=2, Arrival=2, Service=1); 
+Time 7:
+Waiting clients: none
+Queue 1: closed
+Queue 2: closed
+
+=== FINAL STATISTICS ===
+Average Waiting Time: 2.50
+Average Service Time: 2.00
+Peak Hour: 2 (with 4 clients in queues)
