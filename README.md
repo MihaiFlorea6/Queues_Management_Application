@@ -16,13 +16,13 @@ The primary objective was to design a scalable multithreaded environment capable
 * **Deterministic Simulation:** Generating specific edge-case scenarios (with predefined constraints for arrival and service times) and precisely logging the real-time status of each queue over a given simulation timeframe.
 * **Graphical Monitoring:** Providing a Java Swing GUI for configuring simulation parameters (Number of Clients, Queues, Max Time, etc.) and visually tracking the real-time evolution of the system.
 
-* # System Logic & OOP Design
+# System Logic & OOP Design
   The system's intelligence and reliability are centered around two main engineering assets:
   ## 1. Multithreading & Thread Safety
-    Every `Server` (Queue) processes clients asynchronously. The system relies on `LinkedBlockingQueue<Task>` to inherently handle the complex wait/notify mechanics, ensuring that tasks are queued and dequeued safely across the main simulation loop and the individual queue threads without throwing `ConcurrentModificationException`.
+  Every `Server` (Queue) processes clients asynchronously. The system relies on `LinkedBlockingQueue<Task>` to inherently handle the complex wait/notify mechanics, ensuring that tasks are queued and dequeued safely across the main simulation loop and the individual queue threads without throwing `ConcurrentModificationException`.
 
   ## 2. Architectural Design Patterns (UML)
-    Designed following strict OOP principles, the application architecture is visually documented and segmented into specific layers (Model, BusinessLogic, GUI).
+  Designed following strict OOP principles, the application architecture is visually documented and segmented into specific layers (Model, BusinessLogic, GUI).
   * **Strategy Pattern (`BusinessLogic`):** The `Strategy` interface defines the contract for task allocation. Implementations like `ShortestQueueStrategy` (evaluates queue size) and `TimeStrategy` (evaluates total processing time) are injected into the `Scheduler`, allowing behavior changes at runtime.
   * **Data Encapsulation (`Model`):** The `Task` and `Server` classes maintain strict access modifiers, exposing only necessary telemetry (e.g., `getWaitingPeriod()`, `getQueueSize()`) to the simulation manager.  
 
