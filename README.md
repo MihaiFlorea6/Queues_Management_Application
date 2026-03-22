@@ -47,7 +47,7 @@ This project demonstrates proficiency in:
 The logic was rigorously validated against predefined test suites. The simulation logs (`simulation_log.txt`) prove accurate task dispatching, precise decrementing of service times per tick, and correct calculation of final telemetry: `Average Waiting Time`, `Average Service Time` and the `Peak Hour` (maximum concurrent clients).  
 
 # Key Technologies  
-`Java 21`, `Multithreading (Runnable, Threads)`, `Java Concurrency (BlockingQueue, AtomicInteger)`, `Java Swing / AWT`, `Design Patterns (Strategy)`, `UML Data Modeling`.
+`Java 17`, `Multithreading (Runnable, Threads)`, `Java Concurrency (BlockingQueue, AtomicInteger)`, `Java Swing / AWT`, `Design Patterns (Strategy)`, `UML Data Modeling`.
 
   
 
